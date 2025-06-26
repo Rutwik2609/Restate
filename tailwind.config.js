@@ -15,7 +15,7 @@ module.exports = {
       colors: {
         primary: {
           100: "#0061FF0A",
-          200: "#0061FF1A",
+          200: "#0061FF1A", //Here 0061FF is color and next two are opacity
           300: "#0061FF",
         },
         accent: {
